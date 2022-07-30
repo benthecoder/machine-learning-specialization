@@ -1,3 +1,6 @@
+
+# Supervised Machine Learning
+
 - [Supervised Machine Learning](#supervised-machine-learning)
   - [Week 1: Intro to ML](#week-1-intro-to-ml)
     - [What is ML?](#what-is-ml)
@@ -20,8 +23,6 @@
       - [solutions](#solutions)
     - [Regularization](#regularization)
     - [Gradient descent for Logistic Regression](#gradient-descent-for-logistic-regression)
-
-# Supervised Machine Learning
 
 ## Week 1: Intro to ML
 
